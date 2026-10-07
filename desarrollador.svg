@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360">
+<rect width="520" height="360" rx="24" fill="#d9eaf7"/>
+<rect x="105" y="55" width="310" height="190" rx="12" fill="#243447"/>
+<rect x="125" y="75" width="270" height="150" fill="#f8fafc"/>
+<text x="145" y="125" font-family="Arial" font-size="25" fill="#1f4e79">&lt;code&gt;</text>
+<text x="145" y="165" font-family="Arial" font-size="21" fill="#b45f06">crear();</text>
+<text x="145" y="200" font-family="Arial" font-size="21" fill="#1f4e79">&lt;/code&gt;</text>
+<rect x="70" y="250" width="380" height="18" rx="9" fill="#243447"/>
+<circle cx="260" cy="300" r="42" fill="#1f4e79"/>
+<circle cx="260" cy="286" r="14" fill="#fff"/>
+<path d="M225 330 Q260 300 295 330" fill="none" stroke="#fff" stroke-width="10"/>
+<text x="178" y="345" font-family="Arial" font-size="18" fill="#243447">Desarrollo de Software</text>
+</svg>
